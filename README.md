@@ -1,5 +1,5 @@
 # Tippy-android-studio-first-app
-
+I named my app Tipster.
 Excited to learn how to use Android Studio AND creating this handy Tip Calculator.
 Used FreeCodeCamp by an Android Dev named Rahul.
 This is publishable to the Google Play Store and will post a link when the app
