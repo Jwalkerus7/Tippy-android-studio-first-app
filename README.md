@@ -13,3 +13,7 @@ This was my first experience with the Kotlin language, Android Studio, and anyth
 to do with Android development. 
 Building the app was fun and next on the TODO lsit is download it to the Google Play
 Store.
+
+Kotlin Language is a understandable language that I look forward to learning more about.
+With Kotlin in Android Studio, Python with the Kivvy Library for Mobile Development AND
+learning Android development with Xamarin(MS C#) I hope to get a career as a Mobile Developer. 
